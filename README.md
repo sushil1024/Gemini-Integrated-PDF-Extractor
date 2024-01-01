@@ -2,7 +2,7 @@
 Gemini Integrated AI PDF Extractor
 Extracts Values using keyword search
 
-# Requirments
+# Requirements
 colorama==0.4.6
 google-generativeai
 pdf2image==1.16.3
