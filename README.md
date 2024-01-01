@@ -1,4 +1,4 @@
-# Gemini-Integrated-PDF-Extractor
+# Gemini Integrated PDF Extractor
 Gemini Integrated AI PDF Extractor
 Extracts Values using keyword search
 
